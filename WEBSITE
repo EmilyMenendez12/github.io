@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h3> Client Information</h3>
+    <form method="get">
+      First name: <input type="text" name "First name" value= "Johnny">
+      Last name: <input type="text" name="last name" value="Smith"
+   </form> 
+    <br>
+      <form method="get">
+        <input type="text" name="search" value="Search Google or type in URL" size="40">
+      </form>
+      <h4> Drop Down</h4>
+      <form method="post">
+        <label for="country"> country: </label>
+        <select name="country" id="country">
+          <optgroup label="Africa">
+          <option value="Ghana"> Ghana</option>
+                   <option value="Mali"> Mali</option>
+          </optgroup>
+          <optgroup label="Asia">
+                   <option value="South Korea"> South Korea</option>
+                   <option value="Japan"> Japan</option>
+                   <option value="China"> China</option>
+          </optgroup>
+        </select>
+        </br>
+      <label for="urban"> Urban:  </label>
+      <select name="urban" id="urban">
+        <option value="urban"> urban </option>
+        <option value="rural"
+                > rural </option> 
+      </select>
+    </form> 
+    <form action="/action-page.php.">
+      <label form="male"> Female </label>
+      <input type="radio" name="gender" id="female" value="female">
+      <br>
+      <label form="male"> Male </label>
+      <input type="radio" name="gender" id="male" value="male"> </br> 
+    
+    <!DOCTYPE html>
+<html>
+	<head>
+		<title>Octopuses</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+	    <div class="title">
+	        My Personal Page
+	    </div>
+	    
+	    <div class="featured">
+	        <h1>Quick Facts</h1>
+	        <ul>
+	            <li><span class="feat-title"> Age: </span>14 </li>
+	            <li><span class="feat-title"> School: </span>Coral Gables Senior High School  </li>
+	            <li><span class="feat-title"> Foods: </span>food</li>
+	        </ul>
+	          
+	    </div>
+	    
+	    <h2>My family</h2>
+	        <p>
+	           <span class="feat-title"> Uncle: </span>Fill in
+	       </p>
+	       <p>
+	           <span class="feat-title"> Mom: </span> Fill in
+	       </p>
+	       <p>
+	            <span class="feat-title"> Sister: </span>Fill in
+	       </p>       
+	    </div>
+	    <div class="content">
+	        <h1>Why do I study HTML and CSS</h1>
+	        <h2>Coding fundamentals</h2>
+	        <p>
+	            I am gaining an introduction to some of the principals of coding. 
+	            I am learning to be fastidious and meticulous in my actions since 
+	            computers pay attention to detail.
+	        </p>
+	        
+	        <h2>Value</h2>
+	        <p>
+	            Businesses require websites in the modern world. An effective and powerful website 
+	            can attract customers. 
+	        </p>
+	    
+	</body>
+</html>
+
+
+<!DOCTYPE html>
+  <html>
+    <head>
+<title>Emily's website</title>
+</head>
+<body>
+  <h1>Coral Gables High School</h1>
+<p>Coding Class 2019</p>
+
+</body>
+</html>
+<h2> “Programs must be written for people to read, and only incidentally for machines to execute.” ...</h2> 
+<h1 style="background-color:pink;">My First Website</h1>
+ </th>  
+<head>
+        <title>
+            Address Book
+        </title>
+    </head>
+    
+    <body style="background-color:white;">
+    
+        <table border="2" style="font-size:15px;">
+            <tr style="color:blue; font-size:30px;">
+                <th>word</th>
+                <th>definition</th>
+               
+            </tr>
+            <tr style="color:teal;">
+                <td>packets</td>
+                <td>a segment of data sent from one computer or device to another over a network.</td>
+          
+            </tr>
+            <tr style="color:magenta;">
+                <td>router</td>
+                <td>a device that forwards data packets along networks.</td>
+               
+            </tr>
+            <tr style="color:salmon;">
+definitions for programming class
+                <td>redundancy</td>
+                <td> the duplication of critical components or functions of a system with the intention of increasing reliability of the system, usually in the form of a backup or fail-safe, or to improve actual system performance, such as in the case of GNSS receivers, or multi-threaded computer processing.</td>
+          </tr>
+          <tr
+ style="color:purple;">        
+              
+              <td>protocol</td>
+          
+                  <td> a set of rules or procedures for transmitting data between electronic devices, such as computers.</td>
+            </tr>
+        </table>
+    </body>
+
+ <!DOCTYPE html> 
+<html>
+  <body> 
+    <svg class="smiley"width="256"height="256"viewBox="0 0 256 256">
+  </body>
+</html>
+<circle class="face" cx="128" cy="128" r="120"/>
+ <circle class="left eye" cx="100" cy="104" r="12"/>
+<circle class="right eye" cx="156" cy="104" r="12"/> 
+<path class="mouth" d="M100,160 Q128,190 156,160"/> 
+ </svg>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Smiley face</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+	<h2>:)</h2>
+	<svg height="200" width="600" xmlns=http://www.w3.org/2000/svg>
+		<circle id="yellowcircle" cx="50" cy="50" r="50" fill="yellow"/>
+		<circle id="blackcircle" cx="30" cy="30" r="10" fill="black"/>
+		<circle id="blackcircle" cx="70" cy="30" r="10" fill="black"/>
+		<ellipse id="blackellipse" cx="50" cy="75" rx="20" ry="8" fill="black"/>
+		<ellipse id="yellowellipse" cx="50" cy="73" rx="20" ry="8" fill="yellow"/>
+		<g transform='translate(15,65)'>
+			<path d="M0,0 A40,40 10 0,0 65,0" fill=none stroke=black stroke-width=5 />  
+		</g>
+	</svg>
+</body>
+</html>
